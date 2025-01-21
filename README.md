@@ -235,3 +235,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This documentation provides an overview of the project, including installation instructions, usage examples, and details about the various features implemented using Axios.
 
 ## Snapshot
+![image](https://github.com/user-attachments/assets/165790ea-24e0-4bb2-84af-9ae4bb1b9508)
+![image](https://github.com/user-attachments/assets/eb6f7aa7-02ce-4a80-a577-54fe8d03465a)
+![image](https://github.com/user-attachments/assets/2fae2e55-1673-4175-a452-c4ff77e8f691)
+![image](https://github.com/user-attachments/assets/8e8ce02a-98e2-414d-93b0-ce5ce3438e99)
