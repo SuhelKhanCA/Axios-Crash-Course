@@ -1,0 +1,120 @@
+#title {
+    font-family: cursive;
+    border-radius: 1rem;
+    padding: 1.25rem;
+    border: 1px solid black;
+}
+
+#res {
+    background-color: #241f1f;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border : 1px solid black;
+}
+
+#res .card {
+    background-color: #444;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+#res .card-header {
+    background-color: #555;
+    color: #fff;
+    border-bottom: 1px solid #666;
+}
+
+#res .card-body {
+    background-color: #444;
+    color: #fff;
+}
+
+#res pre {
+    background-color: #222;
+    color: #0f0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+}
+
+body.dark-mode {
+    background-color: #000;
+    color: #fff;
+}
+
+body.bright-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+#res.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+#res.bright-mode {
+    background-color: #f9f9f9;
+    color: #000;
+}
+
+#res.dark-mode .card {
+    background-color: #444;
+    border: none;
+    margin-bottom: 1rem;
+}
+#title.bright-mode {
+    font-family: cursive;
+    background-color: #241f1f;
+    color: rgb(255, 77, 0);
+    border-radius: 1rem;
+    padding: 1.25rem;
+}
+
+#res.bright-mode .card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+}
+
+#res.dark-mode .card-header {
+    background-color: #555;
+    color: #fff;
+    border-bottom: 1px solid #666;
+}
+
+#res.bright-mode .card-header {
+    background-color: #f1f1f1;
+    color: #000;
+    border-bottom: 1px solid #ddd;
+}
+
+#res.dark-mode .card-body {
+    background-color: #444;
+    color: #fff;
+}
+
+#res.bright-mode .card-body {
+    background-color: #fff;
+    color: #000;
+}
+
+#res.dark-mode pre {
+    background-color: #222;
+    color: #0f0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+}
+
+#res.bright-mode pre {
+    background-color: #f5f5f5;
+    color: #000;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+}
+
+footer{
+    bottom: 0;
+}
